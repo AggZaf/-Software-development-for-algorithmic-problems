@@ -1,0 +1,9 @@
+{
+    "instance_uid": "simple_polygon_with_exterior_20_080",
+    "num_points": 4,
+    "points_x": [632, 3051, 5040, 2519],
+    "points_y": [1588, 470, 1077, 7692],
+    "region_boundary": [0,1,2,3],
+    "num_constraints": 0,
+    "additional_constraints": []
+}
